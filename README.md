@@ -41,7 +41,7 @@ Create the HTML and CSS needed to replicate [this exact same picture](https://ra
 ## What to do if you are stuck?
 
 There is a video about this exercise, watch it if you are lost. But don't copy everything, try to code some of your own.
-
+8
 ## Fundamentals
 This exercise covers the following fundamentals:
 1. Basic structure for every HTML5 website.  
